@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="carritodecompra.css" />
+  <title>Ferreteria</title>
+</head>
+
+<body>
+  <div class="nav-container">
+    <nav class="navbar">
+      <div class="navbar-logo">
+        <button class="navbar-toggle">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </button>
+        <h1></h1>
+      </div>
+      <div class="navbar-menu"> 
+        <div class="navbar-search">
+          <input type="text" placeholder="Buscar productos">
+        </div>
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Acerca de</a></li>
+          <li><a href="#">Favoritos♡</a></li>
+          <li><a href="#">Contactos</a></li>
+        </ul>
+      </div>
+      <h1 class="ver-carrito" id="verCarrito">🛒<span id="cantidadCarrito" class="cantidad-carrito"> 
+    </nav>
+  </div>
+
+  <!-- <div class="nav-container">
+    <nav class="navbar">
+      <h1 class="navbar-logo">Menu</h1>
+      <h1 class="ver-carrito" id="verCarrito">🛒<span id="cantidadCarrito" class="cantidad-carrito">  
+      </span></h1>
+    </nav>
+  </div> -->
+
+  <!--banner-->
+  <div class="banner">
+    <div class="banner-container">
+      <h1>FerreSmart®</h1>
+      <p>------</p>
+    </div>
+  </div>
+
+
+
+  <div id="shopContent" class="shop-content"></div>
+  <div id="modal-container" class="modal-container"></div>
+
+  <script src="./js/productos.js"></script>
+  <script src="./js/carritodecompra.js"></script>
+  <script src="./js/app.js"></script>
+</body>
+
+</html>

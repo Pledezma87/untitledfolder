@@ -1,0 +1,60 @@
+/*const productos = [
+    {
+      id: 1,
+      nombre: "martillo",
+      precio: 50,
+      img: "/img/martillo.png",
+      cantidad: 1,
+    },
+  
+    {
+      id: 2,
+      nombre: "linterna",
+      precio: 50,
+      img: "/img/linterna4.png",
+      cantidad: 1,
+    },
+    {
+      id: 3,
+      nombre: "clavos",
+      precio: 50,
+      img: "/img/CLAVOS.png",
+      cantidad: 1,
+    },
+    {
+      id: 4,
+      nombre: "tornillos",
+      precio: 50,
+      img: "/img/tornillo.png",
+      cantidad: 1,
+    }, 
+    
+    {
+      id: 5,
+      nombre: "bombillo",
+      precio: 50,
+      img: "/img/BOMBILLO3.png",
+      cantidad: 1,
+    },
+    {
+      id: 6,
+      nombre: "alicates",
+      precio: 50,
+      img: "/img/alicates.png",
+      cantidad: 1,
+    },
+    {
+      id: 7,
+      nombre: "destornillador",
+      precio: 50,
+      img: "/img/destornillador.png",
+      cantidad: 1,
+    },
+    {
+      id: 8,
+      nombre: "escalera",
+      precio: 50,
+      img: "/img/escalera.png",
+      cantidad: 1,
+    }
+  ] */
